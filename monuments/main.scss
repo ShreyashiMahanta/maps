@@ -1,0 +1,19 @@
+$color  : rgb(0, 12, 102);
+
+
+.container {
+    margin-top: 1em;
+    font-family: 'Open Sans', sans-serif;
+    color : $color;
+    font-weight: 900;
+}  
+
+body {
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll;
+}
+
+#map {
+    height: 75vh;
+}
